@@ -1,7 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Herrera!
 ======================================================================================================================================
 
-A bilingual (Spanish/English) professional deep passion for technology and a keen interest in staying abreast of new trends. I thrive in fast-paced environments and have a proven track record of delivering high-quality work, collaborating seamlessly with cross-functional teams. Education 📚 Bachelor of Science in Computer Information Systems ---- Metropolitan State University of Denver Associate of Applied Science in Computer Information Systems ---- Community College of Denver Software Development (Backend) Boot Camp Certificate ---- Promineo Tech Bootcamp
+A bilingual (Spanish/English) professional deep passion for technology and a keen interest in staying abreast of new trends. I thrive in fast-paced environments and have a proven track record of delivering high-quality work, collaborating seamlessly with cross-functional teams. 
+Education 📚 
+Bachelor of Science in Computer Information Systems ---- Metropolitan State University of Denver 
+Associate of Applied Science in Computer Information Systems ---- Community College of Denver 
+Software Development (Backend) Boot Camp Certificate ---- Promineo Tech Bootcamp
 
 * 🌍  I'm based in Colorado
 * 🖥️  See my portfolio at [herrerabrian.com](http://herrerabrian.com)
