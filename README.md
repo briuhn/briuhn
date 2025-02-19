@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Herrera!
 ======================================================================================================================================
 
-A bilingual (Spanish/English) professional deep passion for technology. I thrive in fast-paced environments and have a proven track record of delivering high-quality work, collaborating seamlessly with cross-functional teams. 
 
 Education 📚 
 
